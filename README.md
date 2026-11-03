@@ -4,9 +4,9 @@
 
 ## ⬇️ 下載
 
-**[下載 Pikpik（最新版 APK）](https://github.com/maxst0721-lab/Pikpiks/releases/latest/download/Pikpik.apk)**
+**[下載 Pikpik（最新版 APK）](https://github.com/maxst0721-lab/Pikpik/releases/latest/download/Pikpik.apk)**
 
-目前版本：1.1 ｜ 需要 Android 11 以上 ｜ 遊戲語言需為繁體中文 ｜ [所有版本](https://github.com/maxst0721-lab/Pikpiks/releases)
+目前版本：1.2 ｜ 需要 Android 11 以上 ｜ 遊戲語言需為繁體中文 ｜ [所有版本](https://github.com/maxst0721-lab/Pikpik/releases)
 
 > ⚠️ 使用前請先看下面的「[隱私與安全](#-隱私與安全)」和「[免責聲明](#️-免責聲明)」。
 
